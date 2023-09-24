@@ -1,0 +1,42 @@
+[
+	{
+		"file": "I:\\UnrealEngine\\Courses\\ObstacleAssult\\Source\\ObstacleAssult\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@I:\\UnrealEngine\\Courses\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "I:\\UnrealEngine\\Courses\\ObstacleAssult\\Source\\ObstacleAssult\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@I:\\UnrealEngine\\Courses\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "I:\\UnrealEngine\\Courses\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@I:\\UnrealEngine\\Courses\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "I:\\UnrealEngine\\Courses\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@I:\\UnrealEngine\\Courses\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "I:\\UnrealEngine\\Courses\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@I:\\UnrealEngine\\Courses\\ObstacleAssult\\.vscode\\compileCommands_Default\\ObstacleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\EpicGames\\UE_5.3\\Engine\\Source"
+	}
+]
